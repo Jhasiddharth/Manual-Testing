@@ -1,6 +1,8 @@
 # Manual Testing Portfolio
 
-This repository contains sample manual testing artifacts that demonstrate my experience in:
+This repository serves as a collection of manual testing artifacts including test cases, bug reports, test plans, RTM documents, and sample testing projects. The purpose is to demonstrate structured testing methodologies, documentation practices, and quality assurance processes.
+
+## Skills Demonstrated
 
 * Test Case Design
 * Bug Reporting
@@ -23,13 +25,6 @@ Manual-Testing
 └── Sample-Projects
 ```
 
-## Tools & Technologies
-
-* Jira
-* SQL
-* Postman
-  
-
 ## Sample Contents
 
 ### Test Cases
@@ -49,7 +44,6 @@ Manual-Testing
 ### Test Plans
 
 * Web Application Test Plan
-
 
 ### RTM
 
