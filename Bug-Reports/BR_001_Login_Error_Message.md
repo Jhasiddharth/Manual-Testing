@@ -8,6 +8,18 @@ Application displays an unclear error message when the user enters an invalid pa
 
 Login
 
+## Environment
+
+Web Application
+
+## Browser
+
+Google Chrome
+
+## Reproducibility
+
+Always (5/5)
+
 ## Steps to Reproduce
 
 1. Open the Login page.
@@ -30,6 +42,10 @@ Medium
 ## Priority
 
 Medium
+
+## Attachment
+
+N/A
 
 ## Status
 
